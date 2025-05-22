@@ -13,7 +13,7 @@ Related Work Co-pilot is an application designed to assist researchers in drafti
 -   Generating BibTeX entries for selected papers.
 
 <div align="center">
-  <img src="app.png alt="App Ui" width="700">
+  <img src="./app.png" alt="App Ui" width="800">
 </div>
 
 ## ✨ Features
